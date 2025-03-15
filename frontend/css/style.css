@@ -143,14 +143,14 @@ body {
   align-self: flex-end;
 }
 
-.message--other {
+.message__other {
   background-color: #333;
   color: #f2f2f2;
   border-radius: 0 10px 10px 10px;
   align-self: flex-start;
 }
 
-.message--sender {
+.message__sender {
   display: block;
   margin-bottom: 15px;
   font-weight: 700;
